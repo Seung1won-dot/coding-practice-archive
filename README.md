@@ -11,13 +11,13 @@
 제가 현재 학습하고 연습 중인 언어들입니다.
 
 <!-- 뱃지 부분: 더 필요한 언어가 있으면 shields.io에서 추가 가능합니다 -->
-<mlfcinlinecitation description="C" url="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></mlfcinlinecitation>!<mlfcinlinecitation description="C++" url="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></mlfcinlinecitation>
-!<mlfcinlinecitation description="Java" url="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></mlfcinlinecitation>
-!<mlfcinlinecitation description="Python" url="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></mlfcinlinecitation>
-!<mlfcinlinecitation description="JavaScript" url="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></mlfcinlinecitation>
-!<mlfcinlinecitation description="HTML5" url="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></mlfcinlinecitation>
-!<mlfcinlinecitation description="CSS3" url="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></mlfcinlinecitation>
-!
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
 
 <br/>
 
@@ -44,10 +44,10 @@
 3.  **Algorithm & Logic**: 문제를 해결하는 논리적 사고력 기르기
 4.  **Mini Project**: 배운 내용을 종합하여 작은 기능 구현해보기
 
-<br<mlfcinlinecitation description="Seung1won-dot" url="https://github.com/Seung1won-dot"></mlfcinlinecitation>/>
+<br/>
 
 ##  Author
 
 꾸준히 성장하는 개발자가 되겠습니다.
 
-- **GitHub**: 
+- **GitHub**: [github.com/Seung1won-dot](https://github.com/Seung1won-dot)
